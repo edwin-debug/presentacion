@@ -2,3 +2,12 @@
 {
     color: aqua;
 }
+.T
+{
+    
+        width: 500px;
+        height: 500px;
+        object-fit: cover;
+
+    color: blueviolet;
+}
